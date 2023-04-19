@@ -7,7 +7,7 @@ class Main {
     int wybor;
     System.out.println("1.Wprowadz nowego studenta");
     
-    wybor = scan.nextInt();
+    wybor = scan.nextInt();  
     
     switch (wybor){
       case 1:
